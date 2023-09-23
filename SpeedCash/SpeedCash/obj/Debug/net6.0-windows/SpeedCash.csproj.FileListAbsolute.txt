@@ -1,0 +1,16 @@
+C:\Users\great computer\source\repos\SpeedCash\SpeedCash\bin\Debug\net6.0-windows\SpeedCash.exe
+C:\Users\great computer\source\repos\SpeedCash\SpeedCash\bin\Debug\net6.0-windows\SpeedCash.deps.json
+C:\Users\great computer\source\repos\SpeedCash\SpeedCash\bin\Debug\net6.0-windows\SpeedCash.runtimeconfig.json
+C:\Users\great computer\source\repos\SpeedCash\SpeedCash\bin\Debug\net6.0-windows\SpeedCash.dll
+C:\Users\great computer\source\repos\SpeedCash\SpeedCash\bin\Debug\net6.0-windows\SpeedCash.pdb
+C:\Users\great computer\source\repos\SpeedCash\SpeedCash\obj\Debug\net6.0-windows\SpeedCash.Form1.resources
+C:\Users\great computer\source\repos\SpeedCash\SpeedCash\obj\Debug\net6.0-windows\SpeedCash.csproj.GenerateResource.cache
+C:\Users\great computer\source\repos\SpeedCash\SpeedCash\obj\Debug\net6.0-windows\SpeedCash.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\great computer\source\repos\SpeedCash\SpeedCash\obj\Debug\net6.0-windows\SpeedCash.AssemblyInfoInputs.cache
+C:\Users\great computer\source\repos\SpeedCash\SpeedCash\obj\Debug\net6.0-windows\SpeedCash.AssemblyInfo.cs
+C:\Users\great computer\source\repos\SpeedCash\SpeedCash\obj\Debug\net6.0-windows\SpeedCash.csproj.CoreCompileInputs.cache
+C:\Users\great computer\source\repos\SpeedCash\SpeedCash\obj\Debug\net6.0-windows\SpeedCash.dll
+C:\Users\great computer\source\repos\SpeedCash\SpeedCash\obj\Debug\net6.0-windows\refint\SpeedCash.dll
+C:\Users\great computer\source\repos\SpeedCash\SpeedCash\obj\Debug\net6.0-windows\SpeedCash.pdb
+C:\Users\great computer\source\repos\SpeedCash\SpeedCash\obj\Debug\net6.0-windows\SpeedCash.genruntimeconfig.cache
+C:\Users\great computer\source\repos\SpeedCash\SpeedCash\obj\Debug\net6.0-windows\ref\SpeedCash.dll
